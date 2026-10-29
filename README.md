@@ -1,4 +1,4 @@
-### NexusChat --- Intelligent AI Chat Assistant
+### NexusChat --- Intelligent AI Chat Assistant - https://docs.google.com/document/d/1jWuliGox0ghSwMQEByIUeFO5-qxbxdjZC2VfG3ObOw8/edit?usp=sharing
 
 NexusChat is a web-based AI chat application designed to help users ask
 questions, manage conversations, and work with documents in one place.
